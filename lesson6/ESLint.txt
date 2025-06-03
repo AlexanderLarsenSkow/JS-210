@@ -1,0 +1,3 @@
+run this command to install ESLint:
+
+npm install eslint@7.12.1 eslint-cli babel-eslint --save-dev
